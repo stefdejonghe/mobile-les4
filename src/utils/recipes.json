@@ -1,0 +1,494 @@
+[
+  {
+    "id": 1,
+    "name": "Crock Pot Roast",
+    "ingredients": [
+      {
+        "quantity": "1",
+        "name": " beef roast",
+        "type": "Meat"
+      },
+      {
+        "quantity": "1 package",
+        "name": "brown gravy mix",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1 package",
+        "name": "dried Italian salad dressing mix",
+        "type": "Condiments"
+      },
+      {
+        "quantity": "1 package",
+        "name": "dry ranch dressing mix",
+        "type": "Condiments"
+      },
+      {
+        "quantity": "1/2 cup",
+        "name": "water",
+        "type": "Drinks"
+      }
+    ],
+    "steps": [
+      "Place beef roast in crock pot.",
+      "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+      "Pour the water around the roast.",
+      "Cook on low for 7-9 hours."
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
+    "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
+  },
+  {
+    "id": 2,
+    "name": "Roasted Asparagus",
+    "ingredients": [
+      {
+        "quantity": "1 lb",
+        "name": " asparagus",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1 1/2 tbsp",
+        "name": "olive oil",
+        "type": "Condiments"
+      },
+      {
+        "quantity": "1/2 tsp",
+        "name": "kosher salt",
+        "type": "Baking"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 425°F.",
+      "Cut off the woody bottom part of the asparagus spears and discard.",
+      "With a vegetable peeler, peel off the skin on the bottom 2-3 inches of the spears (this keeps the asparagus from being all.\",string.\", and if you eat asparagus you know what I mean by that).",
+      "Place asparagus on foil-lined baking sheet and drizzle with olive oil.",
+      "Sprinkle with salt.",
+      "With your hands, roll the asparagus around until they are evenly coated with oil and salt.",
+      "Roast for 10-15 minutes, depending on the thickness of your stalks and how tender you like them.",
+      "They should be tender when pierced with the tip of a knife.",
+      "The tips of the spears will get very brown but watch them to prevent burning.",
+      "They are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal."
+    ],
+    "timers": [0, 0, 0, 0, 0, 0, 10, 0, 0, 0],
+    "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/50/84/7/picMcSyVd.jpg",
+    "originalURL": "http://www.food.com/recipe/roasted-asparagus-50847"
+  },
+  {
+    "id": 3,
+    "name": "Curried Lentils and Rice",
+    "ingredients": [
+      {
+        "quantity": "1 quart",
+        "name": "beef broth",
+        "type": "Misc"
+      },
+      {
+        "quantity": "1 cup",
+        "name": "dried green lentils",
+        "type": "Misc"
+      },
+      {
+        "quantity": "1/2 cup",
+        "name": "basmati rice",
+        "type": "Misc"
+      },
+      {
+        "quantity": "1 tsp",
+        "name": "curry powder",
+        "type": "Condiments"
+      },
+      {
+        "quantity": "1 tsp",
+        "name": "salt",
+        "type": "Condiments"
+      }
+    ],
+    "steps": [
+      "Bring broth to a low boil.",
+      "Add curry powder and salt.",
+      "Cook lentils for 20 minutes.",
+      "Add rice and simmer for 20 minutes.",
+      "Enjoy!"
+    ],
+    "timers": [0, 0, 20, 20, 0],
+    "imageURL": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": 4,
+    "name": "Big Night Pizza",
+    "ingredients": [
+      {
+        "quantity": "5 teaspoons",
+        "name": "yeast",
+        "type": "Baking"
+      },
+      {
+        "quantity": "5 cups",
+        "name": "flour",
+        "type": "Baking"
+      },
+      {
+        "quantity": "4 tablespoons",
+        "name": "vegetable oil",
+        "type": "Baking"
+      },
+      {
+        "quantity": "2 tablespoons",
+        "name": "sugar",
+        "type": "Baking"
+      },
+      {
+        "quantity": "2 teaspoons",
+        "name": "salt",
+        "type": "Baking"
+      },
+      {
+        "quantity": "2 cups",
+        "name": "hot water",
+        "type": "Misc"
+      },
+      {
+        "quantity": "1/4 cup",
+        "name": "pizza sauce",
+        "type": "Misc"
+      },
+      {
+        "quantity": "3/4 cup",
+        "name": "mozzarella cheese",
+        "type": "Dairy"
+      }
+    ],
+    "steps": [
+      "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+      "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+      "Knead the dough and spread onto a pan.",
+      "Spread pizza sauce and sprinkle cheese.",
+      "Add any optional toppings as you wish.",
+      "Bake at 400 deg Fahrenheit for 15 minutes.",
+      "Enjoy!"
+    ],
+    "timers": [15, 60, 0, 0, 0, 15, 0],
+    "imageURL": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cranberry and Apple Stuffed Acorn Squash Recipe",
+    "ingredients": [
+      {
+        "quantity": "2",
+        "name": "acorn squash",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1",
+        "name": "boiling water",
+        "type": "Drinks"
+      },
+      {
+        "quantity": "2",
+        "name": "apples chopped into 1.4 inch pieces",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1/2 cup",
+        "name": "dried cranberries",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1 teaspoon",
+        "name": "cinnamon",
+        "type": "Baking"
+      },
+      {
+        "quantity": "2 tablespoons",
+        "name": "melted butter",
+        "type": "Dairy"
+      }
+    ],
+    "steps": [
+      "Cut squash in half, remove seeds.",
+      "Place squash in baking dish, cut-side down.",
+      "Pour 1/4-inch water into dish.",
+      "Bake for 30 minutes at 350 degrees F.",
+      "In large bowl, combine remaining ingredients.",
+      "Remove squash from oven, fill with mix.",
+      "Bake for 30-40 more minutes, until squash tender.",
+      "Enjoy!"
+    ],
+    "timers": [0, 0, 0, 30, 0, 0, 30, 0],
+    "imageURL": "http://elanaspantry.com/wp-content/uploads/2008/10/acorn_squash_with_cranberry.jpg",
+    "originalURL": ""
+  },
+  {
+    "id": 6,
+    "name": "Mic's Yorkshire Puds",
+    "ingredients": [
+      {
+        "quantity": "200g",
+        "name": "plain flour",
+        "type": "Baking"
+      },
+      {
+        "quantity": "3",
+        "name": "eggs",
+        "type": "Dairy"
+      },
+      {
+        "quantity": "300ml",
+        "name": "milk",
+        "type": "Dairy"
+      },
+      {
+        "quantity": "3 tbsp",
+        "name": "vegetable oil",
+        "type": "Condiments"
+      }
+    ],
+    "steps": [
+      "Put the flour and some seasoning into a large bowl.",
+      "Stir in eggs, one at a time.",
+      "Whisk in milk until you have a smooth batter.",
+      "Chill in the fridge for at least 30 minutes.",
+      "Heat oven to 220C/gas mark 7.",
+      "Pour the oil into the holes of a 8-hole muffin tin.",
+      "Heat tin in the oven for 5 minutes.",
+      "Ladle the batter mix into the tin.",
+      "Bake for 30 minutes until well browned and risen."
+    ],
+    "timers": [0, 0, 0, 30, 0, 0, 5, 0, 30],
+    "imageURL": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg",
+    "originalURL": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Old-Fashioned Oatmeal Cookies",
+    "ingredients": [
+      {
+        "quantity": "1 cup",
+        "name": "raisins",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1",
+        "name": "cup water",
+        "type": "Drinks"
+      },
+      {
+        "quantity": "3/4 cup",
+        "name": "shortening",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1 1/2 cups",
+        "name": "sugar",
+        "type": "Baking"
+      },
+      {
+        "quantity": "2 1/2 cups",
+        "name": "flour",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1 tsp.",
+        "name": "soda",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1 tsp.",
+        "name": "salt",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1 tsp.",
+        "name": "cinnamon",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1/2 tsp.",
+        "name": "baking powder",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1/2 tsp.",
+        "name": "cloves",
+        "type": "Baking"
+      },
+      {
+        "quantity": "2 cups",
+        "name": "oats",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1/2 cup",
+        "name": "chopped nuts",
+        "type": "Baking"
+      }
+    ],
+    "steps": [
+      "Simmer raisins and water over medium heat until raisins are plump, about 15 minutes.",
+      "Drain raisins, reserving the liquid.",
+      "Add enough water to reserved liquid to measure 1/2 cup.",
+      "Heat oven to 400°.",
+      "Mix thoroughly shortening, sugar, eggs and vanilla.",
+      "Stir in reserved liquid.",
+      "Blend in remaining ingredients.",
+      "Drop dough by rounded teaspoonfuls about 2 inches apart onto ungreased baking sheet.",
+      "Bake 8 to 10 minutes or until light brown.",
+      "About 6 1/2 dozen cookies."
+    ],
+    "timers": [15, 0, 0, 0, 0, 0, 0, 0, 8, 0],
+    "imageURL": "http://s3.amazonaws.com/gmi-digital-library/65caecf7-a8f7-4a09-8513-2659cf92871e.jpg",
+    "originalURL": "#"
+  },
+  {
+    "id": 8,
+    "name": "Blueberry Oatmeal Squares",
+    "ingredients": [
+      {
+        "quantity": "2-1/2 cups",
+        "name": "rolled oats, (not instant)",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1-1/4 cups",
+        "name": "all-purpose flour",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1 tbsp",
+        "name": "grated orange rind",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1/4 tsp",
+        "name": "salt",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1 cup",
+        "name": "cold butter, cubed",
+        "type": "Baking"
+      },
+      {
+        "quantity": "3/4 cup",
+        "name": "packed brown sugar",
+        "type": "Baking"
+      },
+      {
+        "quantity": "3 cups",
+        "name": "fresh blueberries",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1/2 cup",
+        "name": "granulated sugar",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1/3 cup",
+        "name": "orange juice",
+        "type": "Produce"
+      },
+      {
+        "quantity": "4 tsp",
+        "name": "cornstarch",
+        "type": "Baking"
+      }
+    ],
+    "steps": [
+      "Filling: In saucepan, bring blueberries, sugar and orange juice to boil; reduce heat and simmer until tender, about 10 minutes.",
+      "Whisk cornstarch with 2 tbsp (25 mL) water; whisk into blueberries and boil, stirring, until thickened, about 1 minute.",
+      "Place plastic wrap directly on surface; refrigerate until cooled, about 1 hour.",
+      "In large bowl, whisk together oats, flour, sugar, orange rind and salt ; with pastry blender, cut in butter until in coarse crumbs.",
+      "Press half into 8-inch (2 L) square parchment paper–lined metal cake pan; spread with blueberry filling.",
+      "Bake in centre of 350°F oven until light golden, about 45 minutes.",
+      "Let cool on rack before cutting into squares.",
+      "(Make-ahead: Cover and refrigerate for up to 2 days or overwrap with heavy-duty foil and freeze for up to 2 weeks.)"
+    ],
+    "timers": [10, 1, 60, 0, 0, 45, 0, 0],
+    "imageURL": "https://pastryandbeyond.com/wp-content/uploads/2021/06/Blueberry-Oatmeal-Bars-featured.jpg",
+    "originalURL": "http://www.canadianliving.com/food/blueberry_oatmeal_squares.php"
+  },
+  {
+    "id": 9,
+    "name": "Curried chicken salad",
+    "ingredients": [
+      {
+        "quantity": "3",
+        "name": "skinless, boneless chicken breasts, halved lengthwise",
+        "type": "Meat"
+      },
+      {
+        "quantity": "1/2 cup",
+        "name": "mayonnaise",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1 tbsp",
+        "name": "lemon zest",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1 tbsp ",
+        "name": "lemon juice",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1 1/2 tsp",
+        "name": "curry powder",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1/4 tsp",
+        "name": "salt",
+        "type": "Baking"
+      },
+      {
+        "quantity": "2",
+        "name": "ripe mangoes, diced",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1/4 cup",
+        "name": "dried cranberries",
+        "type": "Produce"
+      },
+      {
+        "quantity": "2",
+        "name": "green onions, thinly sliced",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1",
+        "name": "celery stalk, finely chopped",
+        "type": "Produce"
+      },
+      {
+        "quantity": "6 leaves",
+        "name": "Boston lettuce",
+        "type": "Produce"
+      },
+      {
+        "quantity": "6",
+        "name": "English muffins, toasted",
+        "type": "Misc"
+      }
+    ],
+    "steps": [
+      "ARRANGE chicken in a single layer in a large pot.",
+      "Add water to just cover.",
+      "Bring to a boil over medium-high.",
+      "Flip chicken, reduce heat to medium and simmer until cooked, about 6 more min.",
+      "Cool.",
+      "STIR mayo with lemon zest, juice, curry and salt in large bowl.",
+      "Using 2 forks, shred chicken, then stir into mayo mixture with mango, cranberries, green onions and celery.",
+      "Divide among muffins with lettuce leaves",
+      "Sandwich with tops"
+    ],
+    "timers": [0, 0, 0, 6, 0, 0, 0, 0, 0],
+    "imageURL": "http://www.chatelaine.com/wp-content/uploads/2013/05/Curried-chicken-salad.jpg",
+    "originalURL": "http://www.chatelaine.com/recipe/stovetop-cooking-method/curried-chicken-salad/"
+  }
+]
